@@ -8,7 +8,7 @@ I'm currently a 2nd year ISE (Information Science and Engineering) student at BM
 ## Education
 - **BMS College of Engineering**
   - B.E. in Information Science and Engineering
-  - 2022 - Present
+  - 2024 - Present
   - Relevant Courses: Data Structures, Algorithms, Operating Systems, Database Management Systems, Web Development
 
 ## Skills
