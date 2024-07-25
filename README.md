@@ -1,6 +1,5 @@
-# Hello, I'm [Your Name]!
+# Hello, I'm Uttam Seervi!
 
-![Profile views](https://gpvc.arturio.dev/[your-username]) 
 
 ## About Me
 I'm currently a 2nd year ISE (Information Science and Engineering) student at BMS College of Engineering. I have a keen interest in software development, data science, and open source contributions. I'm passionate about learning new technologies and applying them to solve real-world problems.
