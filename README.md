@@ -34,6 +34,6 @@ A frontend clone of Spotify that mimics its user interface. Created using Html, 
 - **Twitter:** [Your Twitter Handle](https://x.com/UttamSeerv23134)
 
 ## Fun Fact
-When I'm not coding, you can find me exploring new places, reading science fiction novels, or playing chess.
+When I'm not coding, you can find me exploring new places, reading science fiction novels, or watching movies
 
 
