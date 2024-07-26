@@ -24,6 +24,8 @@ A comprehensive system for managing hotel operations, including room bookings, g
 ### [Project 2: Spotify](https://github.com/uttamseervi/Spotify.git)
 A frontend clone of Spotify that mimics its user interface. Created using Html, CSS, and JavaScript, this project focuses on replicating the look and feel of the popular music streaming service, providing a responsive and interactive user experience..
 
+### [Project 3: Mega Blog ](https://mega-blog-sandy.vercel.app/)
+A mega blog where you can add the images, and can edit and delete the images. It has a real time text editor and many more. Built using React and Appwrite for the backend,providing a responsive and interactive user experience..
 
 
 
